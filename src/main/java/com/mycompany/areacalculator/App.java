@@ -1,4 +1,4 @@
-package com.mycompany.areaclaculator;
+package com.mycompany.areacalculator;
 
 public class App {
     

@@ -1,4 +1,4 @@
-module com.mycompany.areaclaculator {
+module com.mycompany.areacalculator {
     requires javafx.controls;
-    exports com.mycompany.areaclaculator;
+    exports com.mycompany.areacalculator;
 }
